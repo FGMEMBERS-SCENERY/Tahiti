@@ -1,0 +1,22 @@
+OBJECT_SHARED Models/Airport/ndb.ac -151.7545 -16.443639 6.95 180
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -151.772 -16.4933 -0.26 142.82
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -151.752 -16.4633 -0.02 263.59
+#
+OBJECT_SHARED Models/Misc/apronworker2.xml -151.75459217 -16.44563834 6.3958 0.0 0.0 -0.0
+OBJECT_SHARED Models/Misc/apronworker3.xml -151.75455462 -16.44564798 6.3894 0.0 0.0 -0.0
+OBJECT_SHARED Models/Misc/apronworker1.xml -151.75456821 -16.44564088 6.3952 0.0 0.0 -0.0
+OBJECT_SHARED Models/Misc/apronworker5.xml -151.75456318 -16.44565793 6.3797 0.0 0.0 -0.0
+OBJECT_SHARED Models/Misc/apronworker4.xml -151.75454733 -16.44565905 6.3795 0.0 0.0 -0.0
+OBJECT_SHARED Models/Misc/apronworker4.xml -151.75419519 -16.44602266 6.0620 0.0 0.0 -0.0
+OBJECT_SHARED Models/Misc/apronworker3.xml -151.75421167 -16.44608355 5.9990 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/MontHse1Red_Tile_Yellow.xml -151.75182010 -16.44545031 6.2180 52.4 0.0 -0.0
+OBJECT_SHARED Models/Residential/MontserratHse2Yellow.xml -151.75161120 -16.44549085 6.1636 56.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/MontVuePointHotelPod.ac -151.75177651 -16.44574375 5.9360 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/MontHse1Grey_Yellow.xml -151.75197255 -16.44538718 6.2768 328.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/MontHse1Grey_Yellow.xml -151.75192896 -16.44537659 6.2651 148.0 0.0 -0.0
+OBJECT_SHARED Models/Misc/apronworker3.xml -151.75165456 -16.44545964 6.1808 0.0 0.0 -0.0
+OBJECT_SHARED Models/Misc/apronworker1.xml -151.75173352 -16.44561025 6.1688 0.0 0.0 -0.0
+OBJECT_SHARED Models/Misc/apronworker2.xml -151.75186952 -16.44524879 6.2662 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -151.75247211 -16.44508197 6.4133 359.1 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/dragon.xml -151.75248271 -16.44473564 6.5236 240.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/EDWB_Firestation.xml -151.75251173 -16.44489678 6.5023 146.2 0.0 -0.0
