@@ -1,0 +1,14 @@
+1) add french_polynesia.xml to your $FGDATA/Materials/regions/
+2) add the following line to your $FGDATA/Materials/regions/materials.xml:
+	
+	<region include="Materials/regions/french_polynesia.xml"/>
+
+	after 
+	
+	<!-- Pacific-->
+	<region include="Materials/regions/indonesia.xml"/>
+	<region include="Materials/regions/southeast_asia.xml"/>
+	<region include="Materials/regions/hawaii.xml"/>
+	<region include="Materials/regions/oahu.xml"/>
+	<region include="Materials/regions/hawaii_big_island.xml"/>
+	<region include="Materials/regions/kauai.xml"/>
